@@ -73,7 +73,7 @@ ponderado, validado por hold-out.
 
 ## Autor
 
-Davi — Instituto de Matemática e Estatística, Universidade de São Paulo (IME-USP).
+Davi Oliveira Teobaldo — Instituto de Matemática, Estatística e Ciência da Computação, Universidade de São Paulo (IME-USP).
 
 ## Licença
 
